@@ -1,0 +1,32 @@
+body
+{
+    background-image: url("y1.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.n1
+{
+    height:400px;
+    width:450px;
+    padding:25px;
+    margin:25px;
+    float:right;
+    position:fixed;
+    top:150px;
+    right:60px;
+    background-image: url("y3.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-weight: 400;
+    font-size: larger ;
+    color:yellow;
+    border-radius:3em;
+
+}
+marquee
+{
+    font-size: larger;
+    font-weight: 900;
+}
