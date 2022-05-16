@@ -1,0 +1,79 @@
+.w1
+{
+    background-color:green;
+    position:fixed;
+    top:0px;
+    right:0px;
+    left:0px;
+    height:100px;
+    display:flex;
+
+}
+.g1
+{
+    color:white;
+    font-size: larger;
+    width:50px;
+    margin-top:25px;
+    margin-bottom: 25px;
+    margin-left: 40px;
+    margin-right:25px ;
+  
+}
+.g2
+{
+    color:white;
+    font-size: larger;
+    margin:25px;
+    width:50px;
+}
+.g3
+{
+    color:white;
+    font-size: larger;
+    margin:25px;
+    width:50px;
+    
+}
+.g4
+{
+    color:white;
+    font-size: larger;
+    margin:25px;
+    width:50px;
+    
+}
+.g5
+{
+    color:white;
+    font-size: larger;
+    margin:25px;
+    width:50px;
+    
+}
+.g6
+{
+    color:white;
+    font-size: larger;
+    margin:25px;
+    width:50px;
+    
+}
+.g7
+{
+    color:white;
+    font-size: larger;
+    margin-left:700px;
+    width:50px;
+    display:inline;
+    margin-top: 25px;
+    
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+a:hover
+{
+    color: aqua;
+}
