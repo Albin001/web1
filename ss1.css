@@ -1,6 +1,6 @@
 .w1
 {
-    background-color:green;
+    background-color:black;
     position:fixed;
     top:0px;
     right:0px;
@@ -76,4 +76,46 @@ a{
 a:hover
 {
     color: aqua;
+}
+.rt
+{
+    width:100%;
+    height:70%;
+    background-image: url("t5.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position:fixed;
+    left:0px;
+    right:0px;
+    font-style: normal;
+    font-weight: bolder;
+    color:antiquewhite;
+}
+.rt:hover
+{
+    background-image: url("t6.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position:fixed;
+    left:0px;
+    right:0px;
+
+
+}
+.rt1
+{
+    position:fixed;
+    top:300px;
+    right:300px;
+    left:500px;
+    color:antiquewhite;
+    height:300px;
+    width:300px;
+    padding:75px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-style: normal;
+    font-weight: bolder;
 }
