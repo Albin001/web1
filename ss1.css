@@ -119,6 +119,7 @@ a:hover
     font-size: 3rem;
     font-style: normal;
     font-weight: bolder;
+    display:inline;
 }
   .m1
   {
@@ -133,9 +134,9 @@ a:hover
       left:0px;
       top:0px;
       bottom:0px;
-      width:200px;
+      width:300px;
       height:100%;
-      background-color:green;
+      background-color:lightgrey;
       overflow:scroll;
       display:flex;
       flex-direction: column;
@@ -150,35 +151,64 @@ a:hover
   {
       margin:25px;
      font-size: 2rem;
-     color: antiquewhite;
+     color: black;
   }
   .f3
   {
       margin:25px;
      font-size: 2rem;
-     color: antiquewhite;
+     color: black;
   }
   .f4
   {
       margin:25px;
      font-size: 2rem;
-     color: antiquewhite;
+     color: black;
   }
   .f5
   {
       margin:25px;
      font-size: 2rem;
-     color: antiquewhite;
+     color: black;
   }
   .f6
   {
       margin:25px;
      font-size: 2rem;
-     color: antiquewhite;
+     color: black;
   }
  .o1
  {
      height:100%;
      width:100%;
      overflow: scroll;
+ }
+ iframe
+ {
+     width:100%;
+     height:100%;
+ }
+ .tr 
+ {
+     position:fixed;
+     top:0px;
+     bottom:0px;
+     margin-left:100px;
+     height:100%;
+     width:70%;
+ }
+ .g8
+ {
+    
+    
+        color:white;
+        font-size: larger;
+        width:50px;
+        display:inline;
+        margin-top: 25px;
+        float:left;
+        margin-left:700px;
+        
+        
+    
  }
