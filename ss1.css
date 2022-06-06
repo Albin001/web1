@@ -212,3 +212,31 @@ a:hover
         
     
  }
+ .pic1
+ {
+     margin-left:303px;
+     background-color: white;
+     height:100%;
+     width:80%;
+     }
+     
+     h1
+     {
+         text-align: center;
+     }
+     p
+     {
+         font-size: larger;
+         font-family: 'Times New Roman', Times, serif;
+         font-weight: bold;
+
+     }
+     li
+     {
+         padding:10px;
+         font-weight: bold;
+         font-family: 'Times New Roman', Times, serif;
+         font-weight: bold;
+
+         
+     }
